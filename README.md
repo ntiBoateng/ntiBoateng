@@ -5,6 +5,7 @@
 - 📫 How to reach me on
 
     gideon.boateng@amalitech.org
+    +233 555285176
 
 <!---
 ntiBoateng/ntiBoateng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
