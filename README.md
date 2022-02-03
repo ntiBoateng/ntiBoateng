@@ -5,6 +5,7 @@
 - 📫 How to reach me on
 
     gideon.boateng@amalitech.org
+    gidiboateng200@gmail.com
     +233 555285176
 
 <!---
