@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gideon Nti Boayeng
+- 👋 Hi, I’m @Gideon Nti Boateng
 - 👀 I’m interested in playing PIANO
-- 🌱 I’m currently learning Javascript, CSS and HTML
-- 💞️ I’m looking to collaborate on any Javascript project
+- 🌱 I’m currently learning Golang and TypeScript
+- 💞️ I’m looking to collaborate on any Node.js and Python Django projects
 - 📫 How to reach me on
 
     gideon.boateng@amalitech.org
